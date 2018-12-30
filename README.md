@@ -1,2 +1,2 @@
-# fictionaluniversity
-A fictional university's website, made via WordPress
+# Fictional University
+A fictional university's website, made via WordPress 5
